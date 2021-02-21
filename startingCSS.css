@@ -1,6 +1,6 @@
 
 
-@media screen and (min-width: 700px) and (max-width: 850px) {
+@media screen and (min-width: 800px) and (max-width: 900px) {
   
 body {
 	background-image: radial-gradient(circle, dodgerblue, royalblue);
@@ -120,7 +120,7 @@ figure, .lowergroup {
 
 }
 
-@media screen and (min-width: 550px) and (max-width: 700px) {
+@media screen and (min-width: 700px) and (max-width: 800px) {
   
 
 
